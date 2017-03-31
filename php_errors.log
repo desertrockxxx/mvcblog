@@ -1,0 +1,6 @@
+[31-Mar-2017 11:27:46 UTC] PHP Warning:  require_once(views/_header.tpl.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/views/add.tpl.php on line 2
+[31-Mar-2017 11:27:46 UTC] PHP Stack trace:
+[31-Mar-2017 11:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/views/add.tpl.php:0
+[31-Mar-2017 11:27:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'views/_header.tpl.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/views/add.tpl.php on line 2
+[31-Mar-2017 11:27:46 UTC] PHP Stack trace:
+[31-Mar-2017 11:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/views/add.tpl.php:0
